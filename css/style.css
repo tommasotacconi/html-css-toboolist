@@ -61,7 +61,7 @@ vertical-align: middle;
 
 button{
     padding: 8px;
-    font-size: 16px;
+    font-size: 14px;
     border-radius: 10px;
     border: 0;
     vertical-align: middle;
@@ -116,7 +116,7 @@ button{
 
 .label{
     display: inline-block;
-    font-size: 12px;
+    font-size: 8px;
     border-radius: 10px;
     padding: 4px;
     color: white;
