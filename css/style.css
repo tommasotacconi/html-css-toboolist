@@ -19,8 +19,9 @@ h1{
 }
 
 h2{
-    display: inline;
+    display: inline-block;
     font-size: 22px;
+    margin-top: 10px;
 }
 
 header{
@@ -34,7 +35,8 @@ ul{
 }
 
 li{
-margin: 15px 0;
+margin: 10px 0;
+font-size: 12px;
 }
 
 /* Utilities */
@@ -59,7 +61,7 @@ vertical-align: middle;
 
 button{
     padding: 8px;
-    font-size: 20px;
+    font-size: 16px;
     border-radius: 10px;
     border: 0;
     vertical-align: middle;
@@ -88,8 +90,8 @@ button{
 
 .expand{
     display:inline-block;
-    vertical-align: text-top;
     font-size: 25px;
+    height: 30px;
 }
 
 .status-info{
@@ -114,9 +116,8 @@ button{
 
 .label{
     display: inline-block;
-    border: 1px solid black;
     font-size: 12px;
-    border-radius: 8px;
+    border-radius: 10px;
     padding: 4px;
     color: white;
 }
