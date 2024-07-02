@@ -24,12 +24,12 @@ header{
     line-height: 100px;
 }
 
+/* Utilities */
 #logo{
-    margin-left: 20px;
-    vertical-align: middle;
+margin-left: 20px;
+vertical-align: middle;
 }
 
-/* Utilities */
 .container{
     max-width: 900px;
     height: 570px;
@@ -41,6 +41,28 @@ header{
     height: 60px;
     background-color: white;
     border-radius: 10px 10px 0 0;
+    line-height: 60px;
+}
+
+button{
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0;
+    vertical-align: middle;
+}
+
+#add-task{
+    background-color: #2882ff;
+    margin-left: 50px;
+    color: white;
+}
+
+#add-section{
+    background-color: white;
+    margin-left: 10px;
+    border: 1px solid gray;
+    color: gray;
 }
 
 .lists-container{
@@ -49,4 +71,3 @@ header{
     background-color: white;
     border-radius: 0 0 10px 10px;
 }
-
