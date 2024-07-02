@@ -85,5 +85,26 @@ button{
 }
 
 section{
-    height: 50px;
+    height: 150px;
+}
+
+.status-info{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    border-radius: 50%;
+    line-height: 15px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.done{
+    border: 1px solid #2cc6ab;
+    color: #2cc6ab;
+}
+
+.not-done{
+    border: 1px solid #ff0000;
+    color: #ff0000;
 }
