@@ -6,5 +6,24 @@
 }
 
 /* Generics */
+body{
+    background-color: lightgrey;
+}
+
+h1{
+    display: inline;
+    vertical-align: middle;
+}
+
+header{
+    background-color: white;
+    height: 100px;
+    line-height: 100px;
+}
+
+#logo{
+    vertical-align: middle;
+}
 
 /* Utilities */
+
