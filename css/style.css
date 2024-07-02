@@ -60,9 +60,10 @@ vertical-align: middle;
 }
 
 button{
+    height: 30px;
     padding: 8px;
     font-size: 14px;
-    border-radius: 10px;
+    border-radius: 5px;
     border: 0;
     vertical-align: middle;
 }
