@@ -29,6 +29,10 @@ header{
     line-height: 100px;
 }
 
+ul{
+    list-style-type: none;
+}
+
 /* Utilities */
 #logo{
 margin-left: 20px;
@@ -92,7 +96,6 @@ section{
     display: inline-block;
     width: 15px;
     height: 15px;
-    margin-right: 10px;
     border-radius: 50%;
     line-height: 15px;
     font-size: 10px;
