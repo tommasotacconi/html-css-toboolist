@@ -32,7 +32,7 @@ header{
 /* Utilities */
 .container{
     max-width: 900px;
-    height: 520px;
+    height: 570px;
     margin: 40px auto;
     border: solid 1px black;
 }
@@ -43,4 +43,10 @@ header{
     border-radius: 10px 10px 0 0;
 }
 
+.lists-container{
+    height: 505px;
+    margin-top: 5px;
+    background-color: white;
+    border-radius: 0 0 10px 10px;
+}
 
