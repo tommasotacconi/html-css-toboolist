@@ -33,6 +33,10 @@ ul{
     list-style-type: none;
 }
 
+li{
+margin: 15px 0;
+}
+
 /* Utilities */
 #logo{
 margin-left: 20px;
@@ -86,10 +90,6 @@ button{
     display:inline-block;
     vertical-align: text-top;
     font-size: 25px;
-}
-
-section{
-    height: 150px;
 }
 
 .status-info{
