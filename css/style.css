@@ -111,3 +111,37 @@ section{
     border: 1px solid #ff0000;
     color: #ff0000;
 }
+
+.label{
+    display: inline-block;
+    border: 1px solid black;
+    font-size: 12px;
+    border-radius: 8px;
+    padding: 4px;
+    color: white;
+}
+
+.editorial{
+    background-color: #57c4ff;
+}
+
+.Q1-goals{
+    background-color: #8957ff;
+}
+
+.recruiting{
+    background-color: #23daad;
+}
+
+.mobile{
+    background-color: #ffb30e;
+}
+
+.website{
+    background-color: #e02284;
+}
+
+.sales{
+    background-color: #a5e100;
+}
+
