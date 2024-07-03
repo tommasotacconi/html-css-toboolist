@@ -52,10 +52,9 @@ vertical-align: middle;
 }
 
 .buttons-panel{
-    height: 60px;
+    padding: 15px;
     background-color: white;
     border-radius: 10px 10px 0 0;
-    line-height: 60px;
 }
 
 button{
