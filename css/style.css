@@ -52,7 +52,8 @@ vertical-align: middle;
 }
 
 .buttons-panel{
-    padding: 15px;
+    height: 60px;
+    line-height: 60px;
     background-color: white;
     border-radius: 10px 10px 0 0;
 }
