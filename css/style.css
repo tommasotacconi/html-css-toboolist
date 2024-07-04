@@ -47,7 +47,6 @@ vertical-align: middle;
 
 .container{
     max-width: 900px;
-    height: 570px;
     margin: 40px auto;
 }
 
@@ -80,7 +79,6 @@ button{
 }
 
 .lists-container{
-    height: 505px;
     margin-top: 5px;
     background-color: white;
     border-radius: 0 0 10px 10px;
